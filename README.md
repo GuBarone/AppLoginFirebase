@@ -36,6 +36,7 @@ Para clonar e testar este projeto em sua máquina local, siga os passos abaixo:
    - Conecte um smartphone via USB (com a depuração USB ativa) ou inicie um emulador Android (AVD).
    - Clique no botão **Run** (ícone de play verde ou `Shift + F10`) na barra superior do Android Studio.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 - **Gustavo Pinheiro Barone** (RA: 243027)
+- **Felipe Ramos** (RA: 242339)
 - Universidade Santa Cecília (Unisanta) — Sistemas de Informação
